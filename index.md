@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-# Symlink probe - results in symlink-results.html
+# Gemfile probe - check gemfile-probe.html
