@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-# Gemfile probe - check gemfile-probe.html
+# Build probe - results will appear in probe-results.html
